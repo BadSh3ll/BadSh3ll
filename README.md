@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m mainly working on Software Engineering (mainly Backend Development)<br>
+🔭 I’m working on Software Engineering (mainly Backend Development)<br>
  🌱 I’m currently learning more about Devops and Data Science <br>
  
 ## 🌐 Socials:
